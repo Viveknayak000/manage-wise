@@ -1,0 +1,40 @@
+/* Home.css */
+
+/* Container styles */
+div {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Heading styles */
+h1 {
+  color: #333;
+}
+
+/* Subheading styles */
+h1 span {
+  color: #4CAF50; /* Green color for the "Strategic" span */
+}
+
+/* Paragraph styles */
+p {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+/* Button styles */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  margin-right: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Image styles */
+img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
